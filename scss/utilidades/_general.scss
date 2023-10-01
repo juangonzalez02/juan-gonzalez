@@ -1,0 +1,62 @@
+
+*{
+    margin: 0; 
+    padding: 0;   
+}
+  /*Body*/
+
+  body{
+    background-color: rgb(230, 228, 235)
+
+ }
+  /*header*/
+
+  header{
+    border-bottom: 1px solid black;
+    text-align: center;
+    padding: 10px 10px;
+    background-color: cadetblue;
+  }
+
+  .logo{
+    width: 150px;
+  }
+  
+  nav ul li {
+    list-style: none;
+    display: inline-block;
+    margin: 0 10px;
+    border-radius: 10px;
+        
+   }
+
+  a{
+    text-decoration: none;
+    text-transform: uppercase;
+    color: black;
+    font-weight: bold;
+    }
+    
+
+/*Footer*/
+footer {
+  text-align: left;
+  color: black;
+  text-transform: uppercase;
+  font-weight: bold;
+  border-top: 1px solid black;
+}
+
+.piedepagina{
+    border-bottom: 1px solid black;
+    text-align: center;
+    margin: 0px; 
+    padding-bottom: 0px;
+    background-color: cadetblue;
+}
+
+.redessociales{
+    width: 30px; 
+    
+}
+

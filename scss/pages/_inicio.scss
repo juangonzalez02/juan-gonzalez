@@ -1,0 +1,50 @@
+
+.loquetenemos{
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  color: rgb(0, 0, 0);
+  padding: 25px;
+  margin: 10%;
+ 
+  
+}
+
+   
+   /* Grid */
+   .contenedor-imagenes {
+    display: grid;
+    grid-template-columns: repeat(4, 1fr);
+    grid-template-rows: 1fr;
+    
+    .img-1{
+      height: 50px;
+      width: 50px;
+    }
+    .img-2{
+      height: 50px;
+      width: 50px;
+    }
+    .img-3{
+      height: 50px;
+      width: 50px;
+    }
+    .img-4{
+      height: 50px;
+      width: 50px;
+    }
+    .img-5{
+      height: 50px;
+      width: 50px;
+    }
+    .img-6{
+      height: 50px;
+      width: 50px;
+    }
+    .img-7{
+      height: 50px;
+      width: 50px;
+    }
+    .img-8{
+      height: 50px;
+      width: 50px;
+    }
+  }
